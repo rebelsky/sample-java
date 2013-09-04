@@ -1,4 +1,4 @@
-package edu.grinnell.csc207.rebelsky.hello;
+package edu.grinnell.csc207.rebelsky;
 
 public class HelloWorld {
 
@@ -8,6 +8,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 	System.out.println("Hello, Git");
 	System.out.println("Don't you love communicating this way?");
+        System.out.println("No");
     }
 
 }
